@@ -1,8 +1,14 @@
 # 🚀 Ricardo Schreiber
 
+***`PT`***
 **`Estudante de Engenharia de Software`**
 
 Estudante de Engenharia de Software, proativo e orientado por resultados, apaixonado por tecnologia, programação, empreendedorismo e novos desafios. Possuo conhecimento em diversas linguagens e frameworks devido ao meu contato com programação antes mesmo de integrar na faculdade. Sou muito curioso então sempre estou em busca de evoluir, aprender cada vez mais e sempre disposto a adquirir novas habilidades assim que necessário.
+
+***`EN`***
+**`Software Engineering Student`**
+
+Software Engineering student, proactive and results-oriented, passionate about technology, programming, entrepreneurship and new challenges. I have knowledge in various languages and frameworks due to my contact with programming even before entering college. I am very curious, so I am always seeking to evolve, learn more and always willing to acquire new skills when necessary.
 
    <p align="left">
       <a href="https://github.com/rzschrb?tab=followers">
@@ -17,12 +23,13 @@ Estudante de Engenharia de Software, proativo e orientado por resultados, apaixo
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" />
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
