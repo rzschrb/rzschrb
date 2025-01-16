@@ -1,14 +1,14 @@
 # 🚀 Ricardo Schreiber
 
 ***`PT`***
-**`Estudante de Engenharia de Software`**
+**`Engenheiro de Software`**
 
-Estudante de Engenharia de Software, proativo e orientado por resultados, apaixonado por tecnologia, programação, empreendedorismo e novos desafios. Possuo conhecimento em diversas linguagens e frameworks devido ao meu contato com programação antes mesmo de integrar na faculdade. Sou muito curioso então sempre estou em busca de evoluir, aprender cada vez mais e sempre disposto a adquirir novas habilidades assim que necessário.
+Engenheiro de Software, proativo e orientado por resultados, apaixonado por tecnologia, programação, empreendedorismo e novos desafios. Possuo conhecimento em diversas linguagens e frameworks devido ao meu contato com programação antes mesmo de integrar na faculdade. Sou muito curioso então sempre estou em busca de evoluir, aprender cada vez mais e sempre disposto a adquirir novas habilidades assim que necessário.
 
 ***`EN`***
-**`Software Engineering Student`**
+**`Software Engineer`**
 
-Software Engineering student, proactive and results-oriented, passionate about technology, programming, entrepreneurship and new challenges. I have knowledge in various languages and frameworks due to my contact with programming even before entering college. I am very curious, so I am always seeking to evolve, learn more and always willing to acquire new skills when necessary.
+Software Engineer, proactive and results-oriented, passionate about technology, programming, entrepreneurship and new challenges. I have knowledge in various languages and frameworks due to my contact with programming even before entering college. I am very curious, so I am always seeking to evolve, learn more and always willing to acquire new skills when necessary.
 
    <p align="left">
       <a href="https://github.com/rzschrb?tab=followers">
